@@ -1,0 +1,11 @@
+[debug] > Exec(package, None, None)
+[debug] Evaluating tasks: Compile / package
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Angie Sialou\IdeaProjects\tp_hadoop\target\scala-2.12\classes ...
+[error] C:\Users\Angie Sialou\IdeaProjects\tp_hadoop\src\main\scala\Jobs\Master1.scala:9:16: ';' expected but identifier found.
+[error] object Master1 App {
+[error]                ^
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 1 s, completed 17 juin 2023, 17:10:12
+[debug] > Exec(idea-shell, None, None)
